@@ -29,7 +29,7 @@
 主要利用的技术栈:dubbo/redis
 
 # 开源贡献
-参与了分布式事务解决方案[fescar](github.com/alibaba/fescar)开源项目,提交了对整个common模块的单测用例,提高代码测试覆盖率
+参与了分布式事务解决方案[fescar](https://github.com/alibaba/fescar)开源项目,提交了对整个common模块的单测用例,提高代码测试覆盖率
 
 ---      
 # 致谢
