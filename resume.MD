@@ -1,8 +1,4 @@
 
-# 赵云翔
- - 手机：13164692069&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;本科/湖北文理学院(2014-2018)/物联网工程
- - 工作年限：1年&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Email：hdzee19@gmail.com
- - 期望职位：Java后端开发工程师&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;期望城市：上海 
 
 # 技能清单
 1. 熟练掌握Core Java及Java Web,理解OOP思想
@@ -14,7 +10,7 @@
 6. 熟悉nginx的常用配置及部署(负载均衡,静态资源,反向代理)
 8. 熟悉maven、Git、Linux、docker的常用操作
 # 工作经历
-## 杭州大搜车上海研发中心 （ 2018年4月 ~ 至今 ）
+##  （ 2018年4月-至今
 ### 车型服务搭建
 带领两人的小团队从0到1完成了上海业务侧通用车型基础服务的搭建
 1. 负责基础车型的数据库设计,门店在售车型维护,车型同步以及与第三方系统车型数据映射的方案设计
